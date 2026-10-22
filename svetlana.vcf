@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Куделько;Светлана;Николаевна;;
+FN:Куделько Светлана Николаевна
+ORG:ООО НПЦ «АгроАвангард»
+TITLE:Научный консультант
+TEL;TYPE=CELL:+375296789147
+EMAIL;TYPE=INTERNET:agroavangards@gmail.com
+item1.URL:https://t.me/+375296789147
+item1.X-ABLabel:Telegram
+item2.URL:https://wa.me/375296789147
+item2.X-ABLabel:WhatsApp
+item3.URL:viber://chat?number=%2B375296789147
+item3.X-ABLabel:Viber
+END:VCARD

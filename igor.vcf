@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Найдун;Игорь;Иванович;;
+FN:Найдун Игорь Иванович
+ORG:ООО НПЦ «АгроАвангард»
+TITLE:Заместитель директора по сбыту
+TEL;TYPE=CELL:+375291070648
+EMAIL;TYPE=INTERNET:agroavangards@gmail.com
+item1.URL:https://t.me/+375291070648
+item1.X-ABLabel:Telegram
+item2.URL:https://wa.me/375291070648
+item2.X-ABLabel:WhatsApp
+item3.URL:viber://chat?number=%2B375291070648
+item3.X-ABLabel:Viber
+END:VCARD

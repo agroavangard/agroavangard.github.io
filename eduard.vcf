@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Куделько;Эдуард;Владимирович;;
+FN:Куделько Эдуард Владимирович
+ORG:ООО НПЦ «АгроАвангард»
+TITLE:Заместитель директора по производству
+TEL;TYPE=CELL:+375293514965
+EMAIL;TYPE=INTERNET:agroavangards@gmail.com
+item1.URL:https://t.me/+375293514965
+item1.X-ABLabel:Telegram
+item2.URL:https://wa.me/375293514965
+item2.X-ABLabel:WhatsApp
+item3.URL:viber://chat?number=%2B375293514965
+item3.X-ABLabel:Viber
+END:VCARD
